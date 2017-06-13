@@ -3,9 +3,9 @@ Project is done on nodejs + js as frontend
 
 To run project you need to do
 Step 1
-    pull node-netpay project from this repository https://github.com/gsokolowski
+    pull nodejs-netpay project from this repository https://github.com/gsokolowski
 Step 2
-    cd node-netpay
+    cd nodejs-netpay
     install node_modules
     npm install
 Step 3
@@ -25,7 +25,7 @@ Backend API calls:
 
 // return game by provided name and can be used for also search
 // http://localhost:3001/api/game/Frankie // get by name
-// http://localhost:3001/api/game/Da // serach
+// http://localhost:3001/api/game/Da // search
 
 Search
 Start typing e.g Da (for Dart) or Fa for (Fantastic)
